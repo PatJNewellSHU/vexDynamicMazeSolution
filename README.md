@@ -29,4 +29,7 @@ once it reaches the exit it turns around and does a other right wall foloow back
 once at the start it turns aorund and follows the left wall back to the exit noting any new nodes on the way
 to make sure it doesnt drive off the edge i make sure if it is on the exit or entracen coords and the distacne is greater than 2000 meaning its looking over the edge then it will turn away and go a different path
 theb the horrible mighty if soup creates an ascii art maze reporuduction however ran out of time an ideas for getitng to dipslay nicely 
-nicely
+
+VideoDemoLink:
+for some reason part of my screen gets cut off but all you miss is the list of nodes 
+https://youtu.be/4Pox6jUbSI8
